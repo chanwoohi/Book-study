@@ -4,3 +4,4 @@
 .settings/
 
 .First/.gitignore
+/bin/
