@@ -2,7 +2,7 @@
  	2024년 5월 28일
  	첫 자바 복습입니다.
  */
-package hello;
+package chapter1;
 
 public class HelloJava {
 
