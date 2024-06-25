@@ -1,4 +1,4 @@
-package chapter5;
+package chapter5_6;
 
 public class Student {
 	//Student 클래스 만들기

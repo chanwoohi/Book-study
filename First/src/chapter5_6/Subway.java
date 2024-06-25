@@ -1,4 +1,4 @@
-package chapter5;
+package chapter5_6;
 
 public class Subway {
 	String lineNumber;
